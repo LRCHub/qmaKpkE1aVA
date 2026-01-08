@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "勝利の歌～最強無敵ナンバーワン～",
+  "base_artist": "ROF-MAO",
+  "createdAt": "2026-01-08T13:58:34.306701Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "勝利の歌～最強無敵ナンバーワン～",
+      "artist": "ROF-MAO",
+      "has_synced": false,
+      "path": "select/pl_01_勝利の歌~最強無敵ナンバーワン~_ROF-MAO.txt"
+    }
+  ]
+}
